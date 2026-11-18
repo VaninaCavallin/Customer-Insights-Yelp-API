@@ -1,0 +1,14 @@
+# Análisis y visualización
+pandas
+numpy
+matplotlib
+seaborn
+
+# Consumo de la API de Yelp (Avance 2)
+requests
+python-dotenv
+fuzzywuzzy
+python-Levenshtein
+
+# Entorno de notebooks
+jupyter
